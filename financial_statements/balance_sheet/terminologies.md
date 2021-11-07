@@ -1,11 +1,19 @@
 ## Accrued Expense/Liabilities:
 Recognized on books before it has been paid and represents firm's obligation to make future cash payments for goods/services that have been already delivered. Shown under current liabilities. 
 
-## Convertible Note Hedge:
-A trading strategy used by hedge fund managers that consists of buying a convertible debt security and simultaneously shorting the conversion amount of stock. Used to offset the actual dilution from convertible notes. Both the number of shares shorted and acquired by converting the bond must equal. Strategy is designed to be market neutral while generating a higher yield that would be obtained by holding the convertible bond alone. 
+## Convertible Senior Notes:
+- A debt security that contains an option in which the rate will be converted into a predefined amount of issuer's shares. 
+- Offers investors ability to earn interest but is accrued rather than paid out in cash.
+- Gives investors conversion discount or valuation cap (hard cap on conversion price).
+- If company defaults, noteholders will be unable to get their initial seed money back.
 
-If price drops, short position gains and bond price falls but investor still receives interest.
-If price increases, short position loses, bond price rises and investor still receives interest.
+## Convertible Note Hedge:
+- A trading strategy used by hedge fund managers that consists of buying a convertible debt security and simultaneously shorting the conversion amount of stock.
+- Used to offset the actual dilution from convertible notes.
+- Both the number of shares shorted and acquired by converting the bond must equal.
+- Strategy is designed to be market neutral while generating a higher yield that would be obtained by holding the convertible bond alone. 
+- If price drops, short position gains and bond price falls but investor still receives interest.
+- If price increases, short position loses, bond price rises and investor still receives interest.
 
 ```
 Convertible bond: $1000, 5 years, 6.5% yield (100 shares convertible)
