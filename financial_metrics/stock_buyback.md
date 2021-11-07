@@ -1,4 +1,4 @@
-## Reasons for Share Buyback:
+## Reasons for Share Buyback (Classified as Treasury Stock):
 1) If there are no potential growth opportunities, holding onto cash means sharing ownership for no good reason and hence, costly.
 2) For companies that pay dividends, share buyback can be used to reduce overall cost of capital.
 3) Preserves stock price during recession.
