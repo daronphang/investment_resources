@@ -22,6 +22,10 @@ Debt or equity security purchased with the intent of selling before maturity or 
 ## Deferred Revenue:
 PAyments received in advance for services which have not been performed or good not yet delivered. Classified as a liability.
 
+## Deferred Expense:
+Cost that has already been incurred but not yet consumed. Recorded as an asset.
+
+
 ## Accrued Expense/Liabilities:
 Recognized on books before it has been paid and represents firm's obligation to make future cash payments for goods/services that have been already delivered. Shown under current liabilities. 
 
