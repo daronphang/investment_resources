@@ -16,14 +16,13 @@ Difference between current assets and liabilities. It is a measure of company's 
 ### Changes in Operating Working Capital (Non-Cash):
 Change in working capital is the difference between net working capital amount from one accounting period to the next. **This provides a better understanding on the company's cash position.** Companies will try to shorten working capital cycle to improve cash flow and hence, minimizing the need to acquire additional funding. This can be obtained from the operating cash flow statement. More importantly is to understand how the working capital changes i.e. if current assets increase, company has spent money to purchase additional assets resulting in cash outflow. Excludes cash and investments in marketable securities.
 
-- If final value for change in working capital in positive, change in current operating assets has increased higher than current operating liabilities; company needs more capital to grow and working capital increases (cash outflow). 
-- If final value for change in working capital is negative, the company can grow with less cash as it is delaying payments or getting money upfront and hence, working capital decreases (cash inflow).
-- In cash flow statement, the change in working capital is reversed as assets are deducted and liabilities are added i.e. positive refers to cash inflow and negative refers to cash outflow.
+- If final value for change in working capital is negative, change in current operating assets has increased higher than current operating liabilities; company needs more capital to grow and working capital increases (cash outflow). 
+- If final value for change in working capital is positive, the company can grow with less cash as it is delaying payments (i.e. accounts payable, income taxes payable) or getting money upfront (i.e. deferred revenue) and working capital decreases (cash inflow).
 
 ### Formulas:
 ``` 
 NWC = current assets - current liabilities
 Non-cash WC = current assets (less cash and marketable securities) - current liabilities (less debt)
 
-Change in NWC = net working capital (current year) - net working capital (previous year)
+Change in NWC = net working capital (previous year) - net working capital (current year)
 ```
