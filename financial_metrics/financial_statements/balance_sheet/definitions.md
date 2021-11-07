@@ -37,8 +37,8 @@ If price increases, short position loses, bond price rises and investor still re
 ```
 Convertible bond: $1000, 5 years, 6.5% yield (100 shares convertible)
 Short 100 shares at current price $6
+Total investment = -1000 + 600 = -$400
 Return = 16.25% 
-Total investment = -1000 + 600 = -$00
 ```
 
 
