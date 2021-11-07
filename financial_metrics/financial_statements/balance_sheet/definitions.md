@@ -14,7 +14,7 @@ Item that may be used to reduce taxable income in future; happens when business 
 A reserve that is used to offset the amount of deferred tax asset. Recorded when there is high probability of tax relief not being utilized in future due to non-availability of sufficient future taxable income. 
 
 ## Deferred Tax Liability:
-
+A listing that records taxes that are owed but are not due to be paid until a future date. Both deferred tax asset/liability is created when there are temporary differences between book tax and actual income tax.
 
 ## Marketable Securities:
 Debt or equity security purchased with the intent of selling before maturity or holding it over a long period. Gains/losses on securities are not reflected on income statement but accumulated in comprehensive income statement. Used to diversify portfolio risks and provide liquidity. Can be classified as current and non-current asset. Sales/purchases are included in Cash Flow Statement under "Investing Activities". 
@@ -25,7 +25,20 @@ PAyments received in advance for services which have not been performed or good 
 ## Deferred Expense:
 Cost that has already been incurred but not yet consumed. Recorded as an asset.
 
-
 ## Accrued Expense/Liabilities:
 Recognized on books before it has been paid and represents firm's obligation to make future cash payments for goods/services that have been already delivered. Shown under current liabilities. 
+
+## Convertible Note Hedge:
+A trading strategy used by hedge fund managers that consists of buying a convertible debt security and simultaneously shorting the conversion amount of stock. Used to offset the actual dilution from convertible notes. Both the number of shares shorted and acquired by converting the bond must equal. Strategy is designed to be market neutral while generating a higher yield that would be obtained by holding the convertible bond alone. 
+
+If price drops, short position gains and bond price falls but investor still receives interest.
+If price increases, short position loses, bond price rises and investor still receives interest.
+
+```
+Convertible bond: $1000, 5 years, 6.5% yield (100 shares convertible)
+Short 100 shares at current price $6
+Return = 16.25% 
+Total investment = -1000 + 600 = -$00
+```
+
 
