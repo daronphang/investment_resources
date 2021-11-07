@@ -1,2 +1,2 @@
 ## Restricted Stock Units:
-Compensation issued to employees in the form of stock; only have tangible value after vesting is complete through vesting plan. 
+Compensation issued to employees in the form of stock; only have tangible value after vesting is complete through vesting plan. Considered as supplemental income and is taxable; a portion of shares will be withheld to pay income taxes when vested. If shares are held and sold at later time, the difference between stock price and fair value is reported as capital gain/loss.
