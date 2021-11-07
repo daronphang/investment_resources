@@ -5,6 +5,7 @@ Difference between current assets and liabilities. It is a measure of company's 
 - Positive NWC indicates the company has potential to invest and grow.
 - However, indicate the business has too much inventory or not investing its excess cash.
 - Negative NWC may indicate the business has trouble growing or paying back its creditors i.e. risk of default.
+- If the current assets and current liabilities have increased by the same amount, there would be no change in net working capital.
 
 ### How to Change NWC:
 - Tightening credit/collection policy which reduces accounts receivable and frees up cash but may decline net sales.
@@ -13,13 +14,16 @@ Difference between current assets and liabilities. It is a measure of company's 
 - Higher growth rate requires more investment in assets and having more accounts receivable and inventory which uses cash.
 
 ### Changes in Operating Working Capital (Non-Cash):
-Change in working capital is the difference between net working capital amount from one accounting period to the next. Companies will try to shorten working capital cycle to improve cash flow. This can be obtained from the operating cash flow statement. More importantly is to understand how the working capital changes i.e. if current assets increase, operating working capital increases but company needs to spend more cash for operations. Excludes cash and investments in marketable securities.
+Change in working capital is the difference between net working capital amount from one accounting period to the next. This provides a better understanding on the company's cash position. Companies will try to shorten working capital cycle to improve cash flow and hence, minimizing the need to acquire additional funding. This can be obtained from the operating cash flow statement. More importantly is to understand how the working capital changes i.e. if current assets increase, company has spent money to purchase additional assets resulting in cash outflow. Excludes cash and investments in marketable securities.
 
-- If final value for change in working capital in negative, change in current operating assets has increased higher than current operating liabilities; company needs more capital to grow and working capital increases. 
-- If final value for change in working capital is positive, the company can grow with less cash as it is delaying payments or getting money upfront and hence, working capital decreases.
+- If final value for change in working capital in positive, change in current operating assets has increased higher than current operating liabilities; company needs more capital to grow and working capital increases (cash outflow). 
+- If final value for change in working capital is negative, the company can grow with less cash as it is delaying payments or getting money upfront and hence, working capital decreases (cash inflow).
+- In cash flow statement, the change in working capital is reversed as assets are deducted and liabilities are added i.e. positive refers to cash inflow and negative refers to cash outflow.
 
 ### Formulas:
 ``` 
 NWC = current assets - current liabilities
-Non-cash WC = current assets - cash - marketable securities - current liabilities
+Non-cash WC = current assets (less cash and marketable securities) - current liabilities (less debt)
+
+Change in NWC = net working capital (current year) - net working capital (previous year)
 ```
