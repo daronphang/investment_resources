@@ -1,5 +1,5 @@
 ## Free Cash Flow:
-Represents the cash a company generates to repay creditors, pay dividends, or perform business expansion after accounting for cash outflows to support operations and maintain its capital assets.
+Represents the cash a company generates to repay creditors, pay dividends, or perform business expansion after accounting for cash outflows to support operations and maintain its capital assets. Sharp declines in FCF due to purchase of PPE is expected; will be recuperated as its expense will be spread out over time via depreciation.
 
 ## Levered Free Cash Flow:
 Cash flow available after firm has met its financial obligations.
