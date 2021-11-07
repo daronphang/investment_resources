@@ -28,4 +28,6 @@ NWC = current assets - current liabilities
 Non-cash WC = current assets (less cash and marketable securities) - current liabilities (less debt)
 
 Change in NWC = net working capital (previous year) - net working capital (current year)
+
+Owner's earnings = net income + D&A - CAPEX + change in operating WC
 ```
