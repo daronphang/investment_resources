@@ -15,7 +15,7 @@ Big banks survived crisis as they bought credit default swaps on the same CDOs t
 ## Factors Leading to Bubble:
 1) Widespread subprime lending with relaxed lending standards including extremely low down-payment requirements.
 2) Low Federal Reserve interest rates which helped fund risky investments via easy credit.
-3) When rates were raised between 2004-2006, resulted in massive defaults on mortgages as homes were worth less than debts and lessened demand.
+3) When rates were raised between 2004-2006, resulted in massive defaults on mortgages as homes were worth less than debts.
 4) Rise of high-yielding MBS which made more mortgage credit available to borrowers and encouraged them to take excessive risks.
 5) Short-term relationship between mortgage broker and borrower helped fuel demand. 
 
