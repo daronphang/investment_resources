@@ -7,6 +7,7 @@ Monetary policy tool to deliberately adjust downwards the value of a country's m
 - Spurs economic growth as exports increase and imports decrease, and favors a better balance of payments by shrinking trade deficits.
 - Soverign debt burdens are reduced as a weaker currency makes interest payments less expensive over time.
 - Higher costs of imports will lead to higher prices of goods/services due to lesser supply and hence, cause inflation to rise.
+- Alternative is to buy up foreign reserves to boost foreign demand and strengthen their currencies; this will weaken domestic currency. 
 
 ### Negative Impacts:
 - Higher demand for exported goods will lead to price increases which may normalize initial effect of devaluation.
