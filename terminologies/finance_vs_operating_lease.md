@@ -1,5 +1,5 @@
 ## Finance/Capital Lease:
-- A contract entitling a lessee/renter to temporary use of an asset and has economic characteristics of asset ownership for accounting purposes.
+- A contract entitling a lessee to temporary use of an asset and has economic characteristics of asset ownership for accounting purposes.
 - Finance lease is considered a purchase of an asset and is recorded in balance sheet.
 - Organizations choose to lease long-term assets rather than buying them as it can be used to claim depreciation and interest expense which reduce taxable income. 
 
