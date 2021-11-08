@@ -7,7 +7,7 @@
 - Rapid increase in home prices and growing demand for MBS encouraged banks to lower their lending standards and drive consumers to jump into the market at any cost.
 - Quality of MBS declined and ratings became meaningless. 
 - Risks flowed to investors whereas middlemen including investment banks and mortgage lenders take a cut of money along the way. 
-- Home loans became so divided and spread across the financial spectrum that it was posible of a given homeowner to own shares in his mortgage.
+- Home loans became so divided and spread across the financial spectrum that it was possible for homeowner to own shares of his mortgage.
 - US Treasury stepped in with $700 billion financial system bailout intended to ease credit crunch; Federal Reserve bought $4.5 trillion in MBS over a period of years. 
 
 Big banks survived crisis as they bought credit default swaps on the same CDOs they were selling; however, banks that owed big banks couldn't repay their debts and hence, US government had to bailout. Banks that sold insurance had significantly lesser money to cover bets if housing market failed.
