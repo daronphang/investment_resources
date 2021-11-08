@@ -19,5 +19,10 @@ Big banks survived crisis as they bought credit default swaps on the same CDOs t
 5) Short-term relationship between mortgage broker and borrower helped fuel demand. 
 
 ## Credit Default Swaps:
-Insurance of an MBS even if you didn't own the bond.
+- A financial derivative/insurance contract that allows an investor to swap or offset his credit risk with that of another investor.
+- in CDS, one party "sells" risk and counterparty "buys" or assumes that risk; seller pays periodic fee to buyer and in return, buyer agrees to pay a set amount when default occurs.
+- CDS are designed to cover many risks including defaults and credit rating downgrades. 
+- CDS contracts are maintained via ongoing premium payment.
+- Primarily used to hedge risk and speculation.
+- Most common form of credit derivative involves municipal bonds, emerging market bonds, MBS, and corporate bonds on over-the-counter markets.
 
