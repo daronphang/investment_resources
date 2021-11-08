@@ -21,7 +21,6 @@ When performing DCF, should think about how the cash flow requirements of the bu
 
 - If final value for change in working capital is negative, change in current operating assets has increased higher than current operating liabilities; company needs more capital to grow, working capital increases (cash outflow) and **SHOULD reduce owner's earnings.** 
 - If final value for change in working capital is positive, the company can grow with less cash as it is delaying payments (i.e. accounts payable, income taxes payable) or getting money upfront (i.e. deferred revenue), working capital decreases (cash inflow) and **SHOULD be added to owner's earnings.**
-- 
 
 ### Formulas:
 ``` 
