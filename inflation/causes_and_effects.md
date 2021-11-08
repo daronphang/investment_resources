@@ -16,4 +16,3 @@ Higher costs may not necessary translate to inflationary pressures (transitory t
 - Lower confidence to invest.
 - Real debt levels fall i.e. debtors will gain as they repay their debts in currency that has lower value.
 - Dilutes savings for hard-income earners and widens wealth inequality.
-- 
