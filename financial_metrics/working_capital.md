@@ -7,9 +7,10 @@ Difference between current assets and liabilities. It is a measure of company's 
 - Negative NWC may indicate the business has trouble growing or paying back its creditors i.e. risk of default.
 - If the current assets and current liabilities have increased by the same amount, there would be no change in net working capital.
 
-### How to Change NWC:
+### Actions that Change NWC:
 - Tightening credit/collection policy which reduces accounts receivable and frees up cash but may decline net sales.
 - Increasing inventory during planning will increase inventory investment and uses cash. 
+- Changing purchasing practices to bulk volumes will increase investment in inventory and uses cash.
 - Negotiating with creditors/suppliers for longer payment periods though interests may be higher.
 - Higher growth rate requires more investment in assets and having more accounts receivable and inventory which uses cash.
 
