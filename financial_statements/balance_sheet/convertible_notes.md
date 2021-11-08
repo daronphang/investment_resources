@@ -8,7 +8,7 @@
 - A trading strategy used by hedge fund managers that consists of buying a convertible debt security and simultaneously shorting the conversion amount of stock.
 - Used to offset the actual dilution from convertible notes.
 - Both the number of shares shorted and acquired by converting the bond must equal.
-- Strategy is designed to be market neutral while generating a higher yield that would be obtained by holding the convertible bond alone. 
+- Strategy designed to be market neutral while generating higher yield that would be obtained by holding the convertible bond alone. 
 - If price drops, short position gains and bond price falls but investor still receives interest.
 - If price increases, short position loses, bond price rises and investor still receives interest.
 
