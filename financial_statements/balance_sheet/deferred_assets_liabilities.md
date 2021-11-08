@@ -13,3 +13,6 @@ Cost that has already been incurred but not yet consumed. Recorded as an asset.
 
 ## Deferred Revenue:
 Payments received in advance for services which have not been performed or good not yet delivered. Classified as a liability.
+
+## Valuation Allowance:
+A reserve that is used to offset the amount of deferred tax asset. Recorded when there is high probability of tax relief not being utilized in future due to non-availability of sufficient future taxable income. 
