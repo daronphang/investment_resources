@@ -1,5 +1,5 @@
 ## Working Capital (NWC):
-Difference between current assets and liabilities. A measure of company's liqudity, operational efficiency and short-term financial health. 
+Difference between current assets and liabilities. A measure of company's liquidity, operational efficiency and short-term financial health. 
 
 ### Interpretation:
 - Positive NWC indicates the company has potential to invest and grow.
