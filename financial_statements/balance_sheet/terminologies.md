@@ -26,5 +26,4 @@ Assets that can be sold/purchased independently i.e. licenses, patents, trademar
 - Can be classified as current and non-current asset.
 - Sales/purchases are included in Cash Flow Statement under "Investing Activities". 
 
-## Valuation Allowance:
-A reserve that is used to offset the amount of deferred tax asset. Recorded when there is high probability of tax relief not being utilized in future due to non-availability of sufficient future taxable income. 
+
