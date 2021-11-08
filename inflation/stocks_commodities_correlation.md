@@ -25,4 +25,4 @@ Nonetheless, investing in stocks can be a good hedge against inflation in long-t
 - Inflation: acts as hedge against inflation as it has stable value.
 - Supply and demand.
 - Federal Reserve: opportunity cost for non-interest bearing assets increases when interest rates rise. 
-- US dollar: devalued USD makes gold more attractive while stronger dollar has opposite effect as it becomes more expensive in foreign countries.
+- US dollar: devalued USD makes gold more attractive to foreign investors while stronger dollar has opposite effect.
