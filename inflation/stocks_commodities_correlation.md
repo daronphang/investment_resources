@@ -18,3 +18,11 @@ Need to take into account that higher rates are generally accompanied with faste
 Nonetheless, investing in stocks can be a good hedge against inflation in long-term:
 - Companies can raise prices to account for rising costs of sales/wages.
 - Results in higher revenue and earnings leading to higher valuation.
+
+
+## Factors Driving Gold Prices:
+- Uncertainty: higher demand for safer assets.
+- Inflation: acts as hedge against inflation as it has stable value.
+- Supply and demand.
+- Federal Reserve: opportunity cost for non-interest bearing assets increases when interest rates rise. 
+- US dollar: devalued USD makes gold more attractive while stronger dollar has opposite effect as it becomes more expensive in foreign countries.
