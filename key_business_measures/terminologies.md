@@ -1,5 +1,7 @@
-## Contribution Margin:
-
+## Gross vs Contribution Margin:
+- Contribution margin represents the profits generated for each product/unit sold after deducting variable portion of firm's costs. 
+- Gross margin represents the revenue remaining after subtracting variable costs from revenue.
+- Contribution margin is per-item profit metric while gross margin is total profit metric.
 
 ## Net Dollar Expansion/Retention Rate:
 - Shows how much of a company's existing customer base is spending from previous year.
