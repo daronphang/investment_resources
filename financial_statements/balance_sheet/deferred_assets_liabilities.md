@@ -1,7 +1,7 @@
 ## Deferred Tax Asset:
 - Item that may be used to reduce taxable income in future (returned as tax relief) that has expiration date.
 - Happens when business overpaid taxes or paid in advance on its balance sheet due to authorities recognizing different timing for expenses and revenue.
-- Need to access the recoverability of assets which requires company to generate sufficient future taxable income to use the whole benefit.
+- Need to access the recoverability of assets which requires company to generate sufficient future taxable income.
 - Valuation allowance established if unable to be supported by carryback ability i.e. amount that cannot be recovered. 
 
 ## Deferred Tax Liability:
