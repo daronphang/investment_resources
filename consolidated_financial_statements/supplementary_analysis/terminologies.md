@@ -9,3 +9,8 @@ Rolling over a loan means to extend the loan's due date by paying additional fee
 
 ## Extinguishment of Debt:
 Removing a liability from Balance Sheet when bonds reach their maturity and holders are paid face value of security.
+
+## Stock Based Compensation:
+- Non-cash pay offered to employees in the form of stock options, RSU, and performance shares.
+- Startup firms may lack cash or want to invest cash flow into growth initiatives, hence making equity compensation an option to attract high-quality employees.
+- Expensed under COGS or operating expenses in Income Statement, and added back in Cash Flow from Operating Activities as it is classified as non-cash expense.
