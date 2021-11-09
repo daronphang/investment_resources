@@ -12,6 +12,6 @@ Describes a rapid increase in demand for service/product, usually following from
 - Oil price collapse in 2014 created repricing opportunity whereby companies with weaker balance sheets were producing to cover bills rather than driving up profits; many investors reduced their exposure to energy sector. 
 
 ## Secular Stagnation:
-- Condition where there is negligible or no economic growth in market-based economy i.e. prolonged period of slower economic growth.
+- Condition where there is negligible economic growth in market-based economy i.e. prolonged period of slower economic growth.
 - Low interest rates insufficient to boost demand due to structural issues such as ageing population, lower capital investment, limited access to credit, deflationary pressures, financial crisis, and rising global inequality.
 - Increasing government spending on infrastructure, education, and R&D would be more prudent.
