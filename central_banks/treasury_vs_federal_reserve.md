@@ -12,4 +12,3 @@
 ## Treasury vs Federal Reserve:
 - Both the Treasury and Fed work together to maintain a stable US economy.
 - Fed serves as the government banker and issue Treasury bonds/bills/notes on behalf of Treasury to raise cash.
-- 
