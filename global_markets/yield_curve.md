@@ -10,7 +10,7 @@
 - Steepening refers to widening of spread i.e. yields on long-term bonds rising faster than short-term bonds.
 
 ## Yield Curve Control (YCC):
-- Besides QE and adjusting Federal Funds Rate, another policy alternative the central bank can implement is YCC or interest-rate caps.
+- Besides QE and adjusting Federal Funds Rate, another policy alternative central banks can implement is YCC (interest-rate caps).
 - YCC involves targeting longer-term interest rate by buying or selling bonds as necessary to hit that rate target.
 - Keeping longer-rates down may be needed for economic stimulus if bringing short-term rates near zero isn't enough.
 - As Federal Reserve buys bonds, prices of bond increases due to higher demand which keeps rates down.
