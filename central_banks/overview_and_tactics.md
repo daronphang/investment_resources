@@ -14,7 +14,8 @@
 - Demand for securities injects money into the bank system which is then loaned to businesses/individuals.
 
 ## Quantitative Easing (QE):
-- Unconventional monetary policy whereby Fed purchases longer-term market/government securities (public/private) to lower interest rates and quickly increase domestic money supply to spur economic activity and keep credit flowing.
+- Unconventional monetary policy whereby Fed purchases longer-term market/government securities (public and private) to lower interest rates and quickly increase domestic money supply.
+- Objective is to spur economic activity, lower unemployment and keep credit flowing.
 - Significantly increases central bank's balance sheet.
 - Lower interest rates and increased money supply in reserves incentivised banks to loosen their lending standards.
 - Typically implemented when interest rates are nearly zero as they have fewer tools to influence economic growth.
@@ -30,7 +31,7 @@
 5) Higher demand for fixed-income assets will cause prices to rise and interest rates to fall.
 6) Lower rates make it cheaper to borrow money and encourages businesses/consumers to take loans.
 7) Asset allocations are changed as investors are more inclined to take bigger risks in stock market.
-8) Confidence in economy is restored.
+8) Confidence in economy is restored as market is "hedged" or safeguarded by Fed.
 
 ### Downsides:
 - Risk of devaluating domestic currency and potentially causing rampant inflation.
