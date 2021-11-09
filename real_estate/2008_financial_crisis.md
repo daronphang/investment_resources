@@ -2,11 +2,11 @@
 - Decision by FMFM to expand subprime mortgage market in 1 999 was the catalyst that fueled over-demand in real-estate.
 - Subprime mortgages target borrowers with less-than-perfect credit and adequate savings. 
 - Effort was to make home loans more accessible to those with lower credit.
-- Adjustable-rate mortgages were the most lethal as borrowers would make much lower initial payments than fixed-rate mortgages. 
+- Adjustable-rate mortgages were the most lethal as borrowers would make much lower initial payments than fixed-rate. 
 - Virtually risk-free and borrowers could end up with positive equity as their homes would increase in value; if they could not afford mortgage payments, they would sell homes for profit.
 - Rapid increase in home prices and growing demand for MBS encouraged banks to lower their lending standards and drive consumers to jump into the market at any cost.
 - Quality of MBS declined and ratings became meaningless. 
-- Risks flowed to investors whereas middlemen including investment banks and mortgage lenders take a cut of money along the way. 
+- Risks flowed to investors whereas middlemen (investment banks, mortgage lenders) take a cut of money along the way. 
 - Home loans became so divided and widespread across the financial spectrum that it was entirely possible for homeowner to own shares of his mortgage.
 - US Treasury stepped in with $700 billion financial system bailout intended to ease credit crunch; Federal Reserve bought $4.5 trillion in MBS over a period of years. 
 
