@@ -1,3 +1,8 @@
+## Fiat Currency:
+- Government-issued currency that is not backed by physical commodity but by central banks.
+- Value is derived from relationship between supply and demand, and the stability of issuing government.
+- Risk losing value due to inflation or if people lose faith in a nation's currency.
+
 ## Federal Trade Commission:
 Organization that protects consumers and competition by preventing anticompetitive, deceptive and unfair business practices through law enforcement, advocacy, and education without unduly burdening legitmate business activities.
 
@@ -6,6 +11,11 @@ Organization that protects consumers and competition by preventing anticompetiti
 - Lenders use borrowers' FICO scores along with credit reports to assess credit risk and evaluate creditworthiness.
 - Takes into account data in five areas including payment history, current level of indebtedness, types of credits used, length of credit history, and new credit accounts.
 - Score ranges from 300 to 850, with scores in 580-739 range considered to be "good" credit history.
+
+## Overweight Stock Rating:
+- Stock is expected to outperform its industry in the market.
+- Usually compared against/based on benchmark index i.e. if Apple's weighting in S&P500 is 5%, an overweight rating means it should have heavier weighting.
+- Opposite of 'underweight' and 'equal weight'.
 
 ## Pent-up Demand:
 Describes a rapid increase in demand for service/product, usually following from a period of subdued spending. Consumers tend to hold off making purchases during a recession, building up a backlog of demand that is unleashed when signs of recovery emerge.
@@ -21,3 +31,6 @@ Describes a rapid increase in demand for service/product, usually following from
 - Condition where there is negligible economic growth in market-based economy over prolonged period.
 - Low interest rates insufficient to boost demand due to structural issues such as ageing population, lower capital investment, limited access to credit, deflationary pressures, financial crisis, and rising global inequality.
 - Increasing government spending on infrastructure, education, and R&D would be more prudent.
+
+## Tax Windfall:
+Surtax imposed by governments on businesses or economic sectors that have benefited from economic expansion or experienced above-average profits.
