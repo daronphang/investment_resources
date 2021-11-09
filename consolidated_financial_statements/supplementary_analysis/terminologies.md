@@ -1,6 +1,9 @@
 ## Bank Deposits vs Loans:
 Deposit is a liability for banks as depositors are paid interest or is payable on demand (during withdrawal) whereas loans are assets as banks earn interest income from them.
 
+## Capital Structure:
+Combination of debt and equity used by a company to finance its overall operations and growth.
+
 ## Capital/Financial Leverage:
 The use of borrowed capital as a funding source when investing to expand firm's asset base and generate returns on risk capital. Strategy used to increase potential returns on an investment. Higher leverage means more debt.
 
