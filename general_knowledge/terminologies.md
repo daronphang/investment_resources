@@ -1,6 +1,12 @@
 ## Federal Trade Commission:
 Organization that protects consumers and competition by preventing anticompetitive, deceptive and unfair business practices through law enforcement, advocacy, and education without unduly burdening legitmate business activities.
 
+## FICO Score:
+- Credit score created by Fair Isaac Corporation.
+- Lenders use borrowers' FICO scores along with credit reports to assess credit risk and evaluate creditworthiness.
+- Takes into account data in five areas including payment history, current level of indebtedness, types of credits used, length of credit history, and new credit accounts.
+- Score ranges from 300 to 850, with scores in 580-739 range considered to be "good" credit history.
+
 ## Pent-up Demand:
 Describes a rapid increase in demand for service/product, usually following from a period of subdued spending. Consumers tend to hold off making purchases during a recession, building up a backlog of demand that is unleashed when signs of recovery emerge.
 
