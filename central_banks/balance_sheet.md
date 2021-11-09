@@ -5,4 +5,4 @@
 - When member wishes to convert their reserve balances into cash, Fed provides them dollar bills.
 - Liabilities include US currency in circulation and money held in reserve accounts of member banks.
 - Requires commerical banks to hold minimum of 10% deposit amount as reserves.
-- Reserves are assets for commerical banks for liabilities for central banks.
+- Reserves are assets for commerical banks but liabilities for central banks.
