@@ -1,3 +1,10 @@
+## Efficient Market Hypothesis: 
+- States that share prices reflect all information and consistent alpha generation is impossible.
+- Stocks always trade at their fair value on exchanges, making it impossible for investors to purchase undervalued stocks or sell stocks at inflated prices and hence, impossible to outperform the market through expert stock selection or market timing.
+- Only way to obtain higher returns is by purchasing riskier assets.
+- Investors could do better by investing in low-cost, passive portfolio due to market randomness.
+- Opponents argue that there are traders/investors that consistently generate returns that dwarf the performance of overall market and can't be blind luck; additionally there are times when excessive pessismism or optimism drives prices to trade excessively high or low and hence, showing that stocks do not always trade at fair value.
+
 ## Fiat Currency:
 - Government-issued currency that is not backed by physical commodity but by central banks.
 - Value is derived from relationship between supply and demand, and the stability of issuing government.
