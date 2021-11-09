@@ -10,6 +10,15 @@ Rolling over a loan means to extend the loan's due date by paying additional fee
 ## Extinguishment of Debt:
 Removing a liability from Balance Sheet when bonds reach their maturity and holders are paid face value of security.
 
+## Loan-to-Value (LTV) Ratio:
+- An assessment of lending risk that financial institutions and other lenders examine before approving a mortgage.
+- High LTV ratio loans are considered higher risk; loan has higher interest rate if approved. 
+- As time progresses, loan owed decreases while property value increases which reduces LTV.
+
+```
+LTV ratio = mortgage payment / appraised property value 
+```
+
 ## Stock Based Compensation:
 - Non-cash pay offered to employees in the form of stock options, RSU, and performance shares.
 - Startup firms may lack cash or want to invest cash flow into growth initiatives, hence making equity compensation an option to attract high-quality employees.
