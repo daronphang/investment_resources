@@ -6,12 +6,12 @@
 
 ## Tactics:
 1) Open market operations.
-2) Setting federal funds rate.
+2) Setting federal discount and funds rate.
 3) Specifying reserve requirements for banks.
 
 ## Open Market Operations (OMOs):
 - Central bank creates money and buy short-term Treasury securities from banks, individuals and institutions in open market.
-- Demand for securities injects money into the bank system which is then loaned to businesses/individuals.
+- Higher demand for securities lowers federal funds rate and injects money into the bank system which is then loaned to businesses/individuals.
 
 ## Quantitative Easing (QE):
 - Unconventional monetary policy whereby Fed purchases longer-term market/government securities (public and private) to lower interest rates and quickly increase domestic money supply.
