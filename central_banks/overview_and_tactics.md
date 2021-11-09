@@ -35,7 +35,11 @@
 
 ### Downsides:
 - Risk of devaluating domestic currency and potentially causing rampant inflation.
+- Stabilizes asset prices in short-term but simultaneously generates long-term political instability due to distortions created by allowing any marginal value-additive practices to persist i.e. creates zombie companies whereby they are generating marginal returns to stay profitable.
 - Create asset bubbles and widen wealth inequality.
+- Society being taken into an unhealthy trajectory and makes greater distortions between prices and intrinsic value.
+- Businesses may over-indulge in debt binge as they see Fed as backstopper. 
+- Dangerous if Fed is primary turner for economy as policy is artificial and not organic. 
 
 ## OMO vs QE:
 - OMO is a tool used to influence rate changes in debt market across specified securities and maturities.
