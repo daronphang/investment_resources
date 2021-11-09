@@ -21,8 +21,22 @@
 - Involves large-scale purchases of financial assets.
 - If QE loses effectiveness, can be combined with fiscal policy to further expand money supply.
 - Originated from Bank of Japan in 2001 following Asian Financial Crisis of 1997 but failed to meet its inflation goals.
-- Risk of devaluating domestic currency.
+
+### How QE Works (Federal Reserve):
+1) Fed creates money out of thin air by creating bank reserves on its balance sheet.
+2) Reserves are used to purchase long-term Treasuries in open market from major financial institutions.
+3) Financial institutions have more cash in their reserve accounts which they can hold, lend out to consumers and businesses, or buy other assets.
+4) Liquidity in financial system increases (more currency in circulation) which prevents credit crunch.
+5) Higher demand for fixed-income assets will cause prices to rise and interest rates to fall.
+6) Lower rates make it cheaper to borrow money and encourages businesses/consumers to take loans.
+7) Asset allocations are changed as investors are more inclined to take bigger risks in stock market.
+8) Confidence in economy is restored.
+
+### Downsides:
+- Risk of devaluating domestic currency and potentially causing rampant inflation.
+- Create asset bubbles and widen wealth inequality.
 
 ## OMO vs QE:
 - OMO is a tool used to influence rate changes in debt market across specified securities and maturities.
 - QE is a holistic strategy triggered during crisis that seeks to lower borrowing rates to help stimulate economic growth.
+
