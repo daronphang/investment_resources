@@ -1,2 +1,10 @@
+## Federal Trade Commission:
+Organization that protects consumers and competition by preventing anticompetitive, deceptive and unfair business practices through law enforcement, advocacy, and education without unduly burdening legitmate business activities.
+
 ## Pent-up Demand:
 Describes a rapid increase in demand for service/product, usually following from a period of subdued spending. Consumers tend to hold off making purchases during a recession, building up a backlog of demand that is unleashed when signs of recovery emerge.
+
+## Secular Stagnation:
+- Condition where there is negligible or no economic growth in market-based economy i.e. prolonged period of slower economic growth.
+- Low interest rates insufficient to boost demand due to structural issues such as ageing population, lower capital investment, limited access to credit, deflationary pressures, financial crisis, and rising global inequality.
+- Increasing government spending on infrastructure, education, and R&D would be more prudent.
