@@ -1,5 +1,9 @@
 ### NOPAT:
-NOPAT represents company's theoretical income from operations if it had no debt (no interest expense) and ignores tax advantages. Taxes deferred or used as benefit can distort earnings and cash flow.
+NOPAT represents company's theoretical income from operations if it had no debt (no interest expense) and ignores tax advantages. Taxes deferred or used as benefit can distort earnings and cash flow. Difference EBIT as it excludes non-operating income and expenses.
+
+```
+NOPAT = operating income * (1 - tax rate)
+```
 
 ### Return on Equity (ROE):
 Measures how effectively a firm can use money from shareholders to generate profits and grow the company.
