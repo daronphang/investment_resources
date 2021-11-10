@@ -17,10 +17,9 @@ Difference between current assets and liabilities. A measure of company's liquid
 ### Changes in Operating Working Capital (Non-Cash):
 Change in working capital is the difference between net working capital amount from one accounting period to the next. **This provides a better understanding on the company's cash position.** Companies will try to shorten working capital cycle to improve cash flow and hence, minimizing the need to acquire additional funding. This can be obtained from the operating cash flow statement. More importantly is to understand how the working capital changes i.e. if current assets increase, company has spent money to purchase additional assets resulting in cash outflow. Excludes cash and investments in marketable securities.
 
-When performing DCF, should think about how the cash flow requirements of the business affects final owner's earnings calculation.
-
-- If changes in non-cash assets is negative, assets for current year has increased (cash outflow) and is deducted.
-- If changes in non-cash liabilities is negative, liabilities for current year has increased (cash inflow) and is added back.
+When performing DCF, should think about how the cash flow requirements of the business affects final owner's earnings calculation. Changes in WC calculated manually from Balance Sheet will rarely match reported in Cash Flow Statement as companies group items differently on statements, and changes in accounting policies, acquisitons and divestitures can distort the numbers. From Cash Flow Statement's perspective:
+- If change in non-cash assets is negative, assets for current year has increased (cash outflow) and is deducted.
+- If change in non-cash liabilities is negative, liabilities for current year has reduced (cash outflow) and deducted.
 - If final value for change in working capital is negative, change in current operating assets has increased higher than current operating liabilities; company needs more capital to grow, working capital increases (cash outflow) and **SHOULD reduce owner's earnings.** 
 - If final value for change in working capital is positive, the company can grow with less cash as it is delaying payments (i.e. accounts payable, income taxes payable) or getting money upfront (i.e. deferred revenue), working capital decreases (cash inflow) and **SHOULD be added to owner's earnings.**
 
