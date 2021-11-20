@@ -12,4 +12,3 @@
 - Predictable revenue that can be counted on every year and enables measurement of company progress and prediction of future growth.
 - Less subject to variations in short-term trends that may not appropriately reflect health of business.
 - Viewed independently of revenue and deferred revenue.
-- 
