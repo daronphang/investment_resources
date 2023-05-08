@@ -1,4 +1,4 @@
-### Real vs Nominal Interest Rates
+## Real vs Nominal Interest Rates
 
 Real interest rate is adjusted to remove the effects of inflation whereas nomimal rate refers to interest rate before taking inflation into account (advertised/stated rate).
 

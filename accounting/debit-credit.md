@@ -1,8 +1,8 @@
-### Debit vs Credit
+## Debit vs Credit
 
-- Debit (DR) is an accounting entry that either increases asset/expense account and decreases liability/equity account i.e. records money flowing into an account.
-- Credit (CR) is an accounting entry that decreases an asset/expense account and increase liability/equity account i.e. records money flowing out of an account.
-- Most businesses use double-entry accounting whereby every debit (inflow) always has a corresponding credit (outflow).
+- Debit (DR) is an accounting entry that either increases asset/expense account and decreases liability/equity account i.e. records money flowing into an account
+- Credit (CR) is an accounting entry that decreases an asset/expense account and increase liability/equity account i.e. records money flowing out of an account
+- Most businesses use double-entry accounting whereby every debit (inflow) always has a corresponding credit (outflow)
 
 Reversal of the use of debits and credits for asset and liability accounts stems from accounting equation:
 
@@ -10,16 +10,16 @@ Reversal of the use of debits and credits for asset and liability accounts stems
 Assets = Liabilities + Equity
 ```
 
-### Account Rules
+## Accounting Rules
 
-- Asset: Debit increases balance and credit decreases balance.
-- Liability: Debit decreases balance and credit increases balance.
-- Equity: Debit decreases balance and credit increases balance.
-- Revenue: Debit decreases balance and credit increases balance.
-- Expense: Debit increases balance and credit decreases balance.
-- Cash: Debit increases balance and credit decreases balance.
+- Asset: Debit increases balance and credit decreases balance
+- Liability: Debit decreases balance and credit increases balance
+- Equity: Debit decreases balance and credit increases balance
+- Revenue: Debit decreases balance and credit increases balance
+- Expense: Debit increases balance and credit decreases balance
+- Cash: Debit increases balance and credit decreases balance
 
-### Examples
+## Examples
 
 ```
 Company sells a product to customer for $1000:

@@ -1,8 +1,8 @@
-### Questions on DCF
+## Questions on DCF
 
 https://pages.stern.nyu.edu/~adamodar/New_Home_Page/valquestions/valquestions.htm
 
-### FCF
+## FCF
 
 ```
 FCF = NOPAT - CAPEX + tax-deductible D&A - Change in WC
@@ -10,7 +10,7 @@ FCF = NOPAT - CAPEX + tax-deductible D&A - Change in WC
 // changes in WC refers to NWC for current period - NWC for previous period
 ```
 
-### Tax Rate
+## Tax Rate
 
 Cannot use actual taxes paid as it will reflect tax savings when interest payments are made; as EBIT is used, the tax benefits are already included in cost of capital and would be double counting.
 
@@ -18,7 +18,7 @@ Boils down to a choice between effective and marginal tax rates. Effective tax r
 
 In the year of operating loss, the tax rate used in computing the NOPAT should be zero. As you project earnings into future years and they turn positive, have to first cover net operating losses from prior years, during which period the tax rate will still be zero. When net operating losses are used up, the tax rate will converge on the marginal tax rate.
 
-### Depreciation and Amortization
+## Depreciation and Amortization
 
 Only tax deductible depreciation and amortization affect your cash flows. Hence, should compute operating income after tax deductible D&A, and add back after NOPAT. Else, will give non-tax deductible D&A a tax benefit.
 
@@ -39,6 +39,6 @@ NOPAT = 400 * 0.8 = $320
 NOPAT + D&A = 320 + 100 = $420
 ```
 
-### Working Capital
+## Working Capital
 
 Working capital is considered when computing cash flows is because investments in working capital are considered wasting assets that don't earn a fair rate of return i.e. money wasted in inventory is wasted as it sits on shelves. For cash, most public companies invest their cash in commercial paper or treausry bills and hence, earn a low but fair rate of return. Thus, cash is not a wasting asset and **should not** be considered part of working capital.
